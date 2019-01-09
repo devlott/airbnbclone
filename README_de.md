@@ -5,15 +5,14 @@
 ---
 
 # Kostenloses Skript (Klon) Airbnb.com
+## Genaue Kopie von Airbnb! Setup in 5 Minuten!
 
-### Genaue Kopie von Airbnb! Setup in 5 Minuten!
-
-** Airbnb-Funktionen **
+### AIrbnb-Funktionen
 * Importieren Sie Apartments von Airbnb
 * Mit Airbnb-Kalender synchronisieren
 * Importieren von Bewertungen von Airbnb.
 
-**Zusatzfunktionen**
+### Zusatzfunktionen
 * Hinzufügen von Wohnungen zur Website
 * Mehrsprachig (22 Sprachen)
 * mobile Version

@@ -5,15 +5,14 @@
 ---
 
 # Free Script (clon) Airbnb.com
+## Copia exacta de Airbnb! Configuración en 5 minutos!
 
-### Copia exacta de Airbnb! Configuración en 5 minutos!
-
-** Características de AIrbnb **
+### características AIrbnb
 * Importar apartamentos desde Airbnb
 * Sincronización con el calendario de Airbnb
 * Importación de opiniones desde Airbnb.
 
-**Características adicionales**
+### Características adicionales
 * Añadiendo apartamentos al sitio.
 * Multilingüe (22 idiomas)
 * version móvil
