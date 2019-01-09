@@ -4,30 +4,33 @@
 
 ---
 
-Sample variable for repo: [[any_repo_var]]
+# Free Script (clone) Airbnb.com
+
+### Exact copy of Airbnb! Setup in 5 minutes!
+
+**AIrbnb features**
+* Import apartments from Airbnb
+* Sync with Airbnb Calendar
+* Importing reviews from Airbnb.
+
+**Additional features**
+* Adding apartments to the site
+* Multilingual (22 languages)
+* mobile version
+* Advanced CRM
+* Online booking form
+* Ganthe chart
+* Online-chat
+* Email Notifications
+* Google Analytics, Yandex Metrika.
+* 24/7 support.
+
+<hr />
 
 Version = 0.0.1 <br />
 Library name = airbnbclone <br />
 Title = Airbnb Clone Script <br />
 Keywords = airbnb clone script estate wordpress site theme rental software <br />
-
-### Hot to install
-
-```sh
-yarn add airbnbclone
-```
-                            
-
-### How to use
-
-```javascript
-const {airbnbclone} = require('airbnbclone');
-console.dir(airbnbclone)
-
-s = new airbnbclone('Example key').start('Hello');
-console.log(s)
-```
-                        
 
     
 
