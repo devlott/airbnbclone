@@ -29,7 +29,7 @@
 
 <hr />
 
-Версия = 0.0.1 <br />
+Версия = 0.0.2 <br />
 Название библиотеки = airbnbclone <br />
 Название = Airbnb Clone Script <br />
 Ключевые слова = airbnb clone script estate wordpress site theme rental software <br />

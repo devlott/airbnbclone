@@ -29,7 +29,7 @@
 
 <hr />
 
-Versione = 0.0.1 <br />
+Versione = 0.0.2 <br />
 Nome libreria = airbnbclone <br />
 Titolo = Airbnb Clone Script <br />
 Parole chiave = airbnb clone script estate wordpress site theme rental software <br />
