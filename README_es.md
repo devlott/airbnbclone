@@ -1,16 +1,18 @@
 <p align="center"><b>🛠️ Este repositorio fue creado usando el <a href="https://gitupload.com">GitUpload</a>.</b></p>
-
+<p align="center"><a href="https://estate.im"><img src="https://github.com/markolofsen/airbnbclone//blob/master/.banners/banner_es.jpg?raw=1" /></a></p>
 <p align="center"><b>Languages:</b><br /><a href="https://github.com/markolofsen/airbnbclone/blob/master/README_de.md">Deutsch</a> | <a href="https://github.com/markolofsen/airbnbclone/blob/master/README.md">English</a> | <b>Spanish</b> | <a href="https://github.com/markolofsen/airbnbclone/blob/master/README_fr.md">French</a> | <a href="https://github.com/markolofsen/airbnbclone/blob/master/README_it.md">Italian</a> | <a href="https://github.com/markolofsen/airbnbclone/blob/master/README_ru.md">Russian</a></p>
 
 ---
 
 # Free Script (clon) Airbnb.com
 ## Copia exacta de Airbnb! Configuración en 5 minutos!
+## <a href="https://demo.estate.im">sitio web de demostración</a>
 
 ### características AIrbnb
-* Importar apartamentos desde Airbnb
+* Importar apartamentos desde Airbnb ( <a href="https://estate.im/">Demo import</a> )
 * Sincronización con el calendario de Airbnb
 * Importación de opiniones desde Airbnb.
+
 
 ### Características adicionales
 * Añadiendo apartamentos al sitio.
@@ -23,6 +25,7 @@
 * Notificaciónes de Correo Electrónico
 * Google Analytics, Yandex Metrika.
 * Soporte 24/7.
+
 
 <hr />
 
