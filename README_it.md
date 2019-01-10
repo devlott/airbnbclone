@@ -4,9 +4,17 @@
 
 ---
 
-# Free Script (clone) Airbnb.com
-## Copia esatta di Airbnb! Installazione in 5 minuti!
-## <a href="https://demo.estate.im">Sito Web demo</a>
+# Airbnb Clone Script
+Attenzione ai proprietari di case Airbnb! Risparmia tempo e denaro con il nuovo Assistente Airbnb. Prenota direttamente e non pagare alcuna commissione. Gestisci la tua lista degli ospiti e invitali di nuovo con un semplice clic di un pulsante.
+
+Free Clone Script Airbnb.com — Copy of Airbnb website. Easy setup
+
+## <a href="https://estate.im/">Estate.im</a> - assistente proprietario di casa per airbnb!
+
+<hr />
+
+### Copia esatta di Airbnb! Installazione in 5 minuti!
+### <a href="https://demo.estate.im">Sito web demo</a>
 
 ### Funzionalità di AIrbnb
 * Importa appartamenti da Airbnb ( <a href="https://estate.im/">importazione demo</a> )
@@ -26,12 +34,15 @@
 * Google Analytics, Yandex Metrika.
 * Supporto 24/7.
 
+<hr />
+
+## <a href="https://estate.im/">Estate.im</a> - assistente proprietario di casa per airbnb!
 
 <hr />
 
-Versione = 0.0.3 <br />
+Versione = 0.0.4 <br />
 Nome libreria = airbnbclone <br />
-Titolo = Airbnb Clone Script <br />
+Title = Airbnb Clone Script <br />
 Parole chiave = airbnb clone script estate wordpress site theme rental software <br />
 
 
